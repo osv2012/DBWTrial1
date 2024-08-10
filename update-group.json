@@ -6,7 +6,7 @@
       "path": "roles",
       "value": [
         {
-          "value": "account_admin"
+          "value": "myaccount_admin"
         }
       ]
     }
